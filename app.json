@@ -1,7 +1,0 @@
-{
-  "name": "swgoh-arena-tracker",
-  "description": "Simple SWGOH arena tracker",
-  "repository": "https://github.com/Swgohpebble/swgoh-arena-tracker-1",
-  "keywords": ["docker"],
-  "stack": "container"
-}
